@@ -1,0 +1,7 @@
+# Ignore common IDE and system files
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+/media/
+/staticfiles/
